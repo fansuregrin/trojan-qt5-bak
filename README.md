@@ -1,2 +1,2 @@
 # trojan-qt5-bak
-a trojan client based on qt5 
+A cross-platform Socks5/Http/SS/SSR/Vmess/Trojan(go)/Snell GUI client
